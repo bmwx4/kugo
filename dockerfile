@@ -1,4 +1,4 @@
-From  centos7:latest
+From  centos:latest
 MAINTAINER frank@linux.cn
 copy ./kugo /
 copy ./server.key /
