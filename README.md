@@ -1,4 +1,4 @@
-#KUGO
+# KUGO
 A web server image for k8s testing.
 
 #### URL
