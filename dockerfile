@@ -1,5 +1,5 @@
 From busybox:latest
-MAINTAINER gy
+MAINTAINER frank@linux.cn
 COPY kugo /
 COPY server.crt /
 COPY server.key /
