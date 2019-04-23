@@ -3,6 +3,7 @@ A web server image for k8s testing.
 
 #### URL
 /v1/
+
 /healthz
 ...
 
