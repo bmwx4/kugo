@@ -1,4 +1,4 @@
-From  registry.xiaojukeji.com/didionline/sre-didi-centos7-init:stable
+From  centos7:latest
 MAINTAINER frank@linux.cn
 copy ./kugo /
 copy ./server.key /
